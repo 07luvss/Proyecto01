@@ -1,0 +1,48 @@
+*{ box-sizing: border-box; padding: 0; margin: 0}
+    
+                .fotoicono{ 
+                    width: 50%; 
+                    height: auto;
+                    }    
+                
+                img {
+                    opacity: 0.95;
+                    }
+                
+                h1 {
+                    text-align: center;
+                    margin-right: 10px;
+                    font-size: 30px;
+                    letter-spacing:5px;
+                    text-shadow: 7px 4px 5px black;  
+                    }
+                
+                p {
+                    font-size: 54px;
+                    text-align: center;
+                    margin-right: 10px;
+                    }
+
+                body{
+                    background-color: goldenrod
+                    }
+
+                .container{
+                    background-color: rgb(99, 187, 190)
+                    
+                }
+
+                .col{
+                    background-color: brown;
+                    font-size: 20px;
+                    /*
+                    margin-left: 5%;
+                    margin-right: 5%;
+                    */
+                    text-align: center;
+                    border-collapse: separate;
+                    border-spacing: 100px 25px;
+                }
+
+
+                
